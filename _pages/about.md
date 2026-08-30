@@ -11,13 +11,16 @@ Dr. Tianshu Bao is a Postdoc Researcher at Vanderbilt University, Computer Scien
 
 Publications
 ======
-**Tianshu Bao**, Xiaoou Liu, Meiyi Ma, Taylor T. Johnson, Hua Wei, " Uncertainty Quantification for Physics-Informed Traffic Graph Networks", ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), 2025, May, **Best Artifact Award**. [<a href="/files/iccps.jpg" target="_blank">jpg</a>]
 
-**Tianshu Bao**, Hua Wei, Dan Work and Taylor T. Johnson, " Spatial-Temporal PDE Networks for Traffic Flow Forecasting", European Conference on Machine Learning and Principles of Knowledge Discovery in Databases (ECML-PKDD), 2024, Sept. (CORE conference ranking A) [<a href="/files/PDE_traffic_network_ECML.pdf" target="_blank">pdf</a>]
+**Tianshu Bao**, Dung T Nguyen, Xiaoou Liu, Meiyi Ma, Taylor T. Johnson, Hua Wei, "Uncertainty Quantification for Physics-Informed Traffic Graph Networks with Adversarial Attacks", ACM Transactions on Cyber-Physical Systems (TCPS), 2026, accepted.
 
-**Tianshu Bao**, Taylor T. Johnson and Xiaowei Jia, " Transfer Learning using Inaccurate Physics Rule for Streamflow Prediction", the 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024, Aug. (CORE conference ranking A*) [<a href="/files/IJCAI.pdf" target="_blank">pdf</a>]
+**Tianshu Bao**, Xiaoou Liu, Meiyi Ma, Taylor T. Johnson, Hua Wei, "Uncertainty Quantification for Physics-Informed Traffic Graph Networks", ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), 2025, May, **Best Artifact Award**. [<a href="/files/iccps.jpg" target="_blank">jpg</a>]
 
-Shengyu Chen, **Tianshu Bao**, Givi Peyman, Can Zheng, Xiaowei Jia, " Reconstructing Turbulent Flows using Spatio-Temporal Physical Dynamics", ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2023, Dec. (Computer Science Information Systems Rank 18/249, Q1) [<a href="/files/acm tist.pdf" target="_blank">pdf</a>]
+**Tianshu Bao**, Hua Wei, Dan Work and Taylor T. Johnson, "Spatial-Temporal PDE Networks for Traffic Flow Forecasting", European Conference on Machine Learning and Principles of Knowledge Discovery in Databases (ECML-PKDD), 2024, Sept. (CORE conference ranking A) [<a href="/files/PDE_traffic_network_ECML.pdf" target="_blank">pdf</a>]
+
+**Tianshu Bao**, Taylor T. Johnson and Xiaowei Jia, "Transfer Learning using Inaccurate Physics Rule for Streamflow Prediction", the 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024, Aug. (CORE conference ranking A*) [<a href="/files/IJCAI.pdf" target="_blank">pdf</a>]
+
+Shengyu Chen, **Tianshu Bao**, Givi Peyman, Can Zheng, Xiaowei Jia, "Reconstructing Turbulent Flows using Spatio-Temporal Physical Dynamics", ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2023, Dec. (Computer Science Information Systems Rank 18/249, Q1) [<a href="/files/acm tist.pdf" target="_blank">pdf</a>]
 
 **Tianshu Bao**\*, Shengyu Chen\*, Taylor T. Johnson, Peyman Givi, and Xiaowei Jia, "Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows", the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022, August. (CORE conference ranking A*) [<a href="/files/uai.pdf" target="_blank">pdf</a>]
 
